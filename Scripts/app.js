@@ -8,3 +8,7 @@ function showError(){
     alert("Error Has Been Occurd");
 
 }
+
+function showSuccess(){
+    alert("Succesfully saved data");
+}
