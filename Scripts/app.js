@@ -4,3 +4,7 @@ function showAlert(){
     alert("hello world");
 
 }
+function showError(){
+    alert("Error Has Been Occurd");
+
+}
