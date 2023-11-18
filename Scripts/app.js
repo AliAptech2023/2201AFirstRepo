@@ -12,3 +12,6 @@ function showError(){
 function showSuccess(){
     alert("Succesfully saved data");
 }
+function showWarning(){
+    alert("warning occured");
+}
